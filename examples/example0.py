@@ -8,7 +8,7 @@ group_structure = np.load('data/struct.npy')
 responses = np.load('data/response0.npy')
 errors = np.load('data/error0.npy')
 response_functions = np.load('data/rfs.npy')
-default_spectrum = np.load('data/ds1.npy')
+default_spectrum = np.load('data/ds0.npy')
 true_solution = np.load('data/ds0.npy')
 
 # unfold with maxed
